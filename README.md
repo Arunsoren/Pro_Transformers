@@ -13,3 +13,5 @@ the Two main Blog that helped me in understanding Transformer & the A.I.hacker y
 2. jay alamar's :  https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 
 3. The A.I. Hacker Youtube : https://www.youtube.com/watch?v=4Bdc55j80l8
+
+4. The Course from the huggingface also gave me some good Archi insights and great course : https://huggingface.co/course/chapter1
