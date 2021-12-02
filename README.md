@@ -15,3 +15,5 @@ the Two main Blog that helped me in understanding Transformer & the A.I.hacker y
 3. The A.I. Hacker Youtube : https://www.youtube.com/watch?v=4Bdc55j80l8
 
 4. The Course from the huggingface also gave me some good Archi insights and great course : https://huggingface.co/course/chapter1
+
+5. zero to Transfermer& BERT :https://www.kaggle.com/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert
