@@ -17,3 +17,8 @@ the Two main Blog that helped me in understanding Transformer & the A.I.hacker y
 4. The Course from the huggingface also gave me some good Archi insights and great course : https://huggingface.co/course/chapter1
 
 5. zero to Transfermer& BERT :https://www.kaggle.com/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert
+
+
+![NLP](https://user-images.githubusercontent.com/31899874/154923910-70ec121c-8cc7-4d21-a6e5-1ffab47dce2b.jpg)
+
+
